@@ -14,9 +14,15 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+
+  - title: "Work"
+    url: /workexperience/
+
+  - title: "Contact"
+    url: /contact/
+
+  #- title: "CV"
+  #  url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
