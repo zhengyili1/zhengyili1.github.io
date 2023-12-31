@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Instructor
+Security Engineer intern at SiriusXM: 2023.1 - 2023.5
 ======
-**Spring 2024**: Systems & Protocol Security & Information Assurance (CSCI-B547)
-<br>**Fall 2023**: Data Analysis and Mining (CSCI-B365)
-<br>**Fall 2018**: Intelligent Systems I (ENGR-E221, lab session)
+* Designed scripts to automatically retrieve vulnerability reports and patch data
+* Injected OneLogin events and user information into Google Chronicle through GCP periodically to
+improve insights into logs and user activities
+* Identified RXSS and analyzed XSS reports to help company fix the issue systematically

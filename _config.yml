@@ -82,10 +82,8 @@ analytics:
 author:
   name             : "Zhengyi Li"
   avatar           : "profile.png"
-  bio              : >
-                   Ph.D. candidate
-                   Indiana University Bloomington
-  location         : 
+  bio              : Ph.D. candidate at Indiana University Bloomington
+  location         : 700 N Woodlawn Avenue, Bloomington, IN
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=txKiQOEAAAAJ&hl=en"

@@ -18,8 +18,8 @@ main:
   - title: "Work"
     url: /workexperience/
 
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
 
   #- title: "CV"
   #  url: /cv/
