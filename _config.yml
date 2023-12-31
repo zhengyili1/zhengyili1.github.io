@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhengyi Li, Ph.D."
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "Ph.D. candidate at Indiana University Bloomington"
