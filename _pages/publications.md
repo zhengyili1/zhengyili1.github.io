@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+2024
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Understanding and Analyzing Appraisal Systems in the Underground Marketplaces**
+**Zhengyi Li**, Xiaojing Liao
+Network and Distributed System Security (NDSS) Symposium 2024.
 
+​**[MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/lin2024mawseo.pdf)**
+Zilong Lin, **Zhengyi Li**, Xiaojing Liao, XiaoFeng Wang, Xiaozhong Liu
+IEEE Symposium on Security and Privacy (Oakland), 2024
