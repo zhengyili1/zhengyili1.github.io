@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Zhengyi Li"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at Indiana University Bloomington"
+  bio              : >
+                      "Ph.D. candidate 
+                      Indiana University Bloomington"
   location         : 
   employer         :
   pubmed           : 
