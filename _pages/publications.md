@@ -14,7 +14,34 @@ author_profile: true
 <br>Network and Distributed System Security (NDSS) Symposium 2024.
 
 ​**[MAWSEO: Adversarial Wiki Search Poisoning for Illicit Online Promotion](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/lin2024mawseo.pdf)**
+<br>Zilong Lin, **Zhengyi Li**, Xiaojing Liao, XiaoFeng Wang, Xiaozhong Liu
+<br>IEEE Symposium on Security and Privacy (S&P Oakland), 2024.
 
-Zilong Lin, **Zhengyi Li**, Xiaojing Liao, XiaoFeng Wang, Xiaozhong Liu
 
-IEEE Symposium on Security and Privacy (Oakland), 2024
+2023
+======
+**[Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels at Scale](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/lalaine_sec23.pdf)**
+<br>Yue Xiao, **Zhengyi Li**, Yue Qin, Xiaolong Bai, Jiale Guan, Xiaojing Liao, Luyi Xing
+<br>USENIX Security Symposium (Security), 2023.
+
+
+2022
+======
+**[Exploring the Reproductive Black Market: Fertility Medications on the Dark Web](https://www.fertstert.org/action/showPdf?pii=S0015-0282%2822%2900586-6)**
+<br>**Zhengyi Li**, Kyle Le, Xiaojing Liao, Brent Monseur
+<br>The American Society for Reproductive Medicine (ASRM) Scientific Congress & Expo, 2022
+
+**Exploring the Reproductive Black Market: Family Planning Medications on the Dark Web**
+<br>**Zhengyi Li**, Kyle Le, Zuyuan Chen, Xiaojing Liao, Brent Monseur
+<br>Pacific Coast Obstetrical and Gynecological Society Annual Meeting (PCOGS), 2022.
+
+
+2021
+======
+**[Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/ndss21-mobile-proxy.pdf)**
+<br>Xianghang Mi, Siyuan Tang, **Zhengyi Li**, Xiaojing Liao, Feng Qian, XiaoFeng Wang
+<br>Network and Distributed System Security Symposium (NDSS), 2021.
+
+​**[Demystifying the Dark Web Opioid Trade: Content Analysis on Anonymous Market Listings and Forum Posts](https://www.jmir.org/2021/2/e24486/)**
+<br>**Zhengyi Li**, Xiangyu Du, Xiaojing Liao, Xiaoqian Jiang, Tiffany Champagne-Langabeer
+<br>Journal of Medical Internet Research (JMIR). (Impact Factor: 5.03)
