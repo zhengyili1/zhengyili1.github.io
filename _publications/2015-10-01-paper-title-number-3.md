@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Analyzing Appraisal Systems in the Underground Marketplaces"
 collection: publications
-permalink: 
+permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: ''
 date: 2010-10-01
 venue: 'Journal 1'
