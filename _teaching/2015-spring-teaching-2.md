@@ -4,6 +4,6 @@ collection: teaching
 type: 
 permalink: 
 venue: 
-date: 
+date: 2014-01-01
 location:
 ---
