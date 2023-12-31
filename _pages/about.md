@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 # Zhengyi Li
-======
 
 Hi, I am a 5th-year Ph.D. candidate in Computer Engineering from [Indiana University Bloomington](https://luddy.indiana.edu/index.html), advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com). 
 
