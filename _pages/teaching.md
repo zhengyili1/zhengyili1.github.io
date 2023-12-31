@@ -10,7 +10,7 @@ author_profile: true
 Instructor
 ======
 **Spring 2024**: Systems & Protocol Security & Information Assurance
-**Fall 2023**: CSCI-B365 Data Analysis and Mining
+<br>**Fall 2023**: CSCI-B365 Data Analysis and Mining
 <br>**Fall 2018**: ENGR-E221 Intelligent Systems I (lab session)
 
 Teaching Assistant
