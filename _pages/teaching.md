@@ -15,12 +15,19 @@ Instructor
 
 Teaching Assistant
 ======
-**Spring 2019**: Advanced Cloud Computing (ENGR-E616)
-<br>**Fall 2019**: Intro to Intelligent Systems (ENGR-E503)
-<br>**Spring 2020**: Intelligent Systems II (ENGR-E222)
-<br>**Fall 2020**: Deep Learning Systems (ENGR-E533)
-<br>**Spring 2021**: Machine Learning for Signal Processing (ENGR-E511)
-<br>**Fall 2021**: Deep Learning Systems (ENGR-E533)
-<br>**Spring 2022**: Machine Learning for Signal Processing (ENGR-E511)
+**Spring 2023**: Machine Learning for Signal Processing (ENGR-E511)
 <br>**Fall 2022**: Deep Learning Systems (ENGR-E533)
-<br>**Spring 2023**: Machine Learning for Signal Processing (ENGR-E511)
+<br>**Spring 2022**: Machine Learning for Signal Processing (ENGR-E511)
+<br>**Fall 2021**: Deep Learning Systems (ENGR-E533)
+<br>**Spring 2021**: Machine Learning for Signal Processing (ENGR-E511)
+<br>**Fall 2020**: Deep Learning Systems (ENGR-E533)
+<br>**Spring 2020**: Intelligent Systems II (ENGR-E222)
+<br>**Fall 2019**: Intro to Intelligent Systems (ENGR-E503)
+<br>**Spring 2019**: Advanced Cloud Computing (ENGR-E616)
+
+
+
+
+
+
+
