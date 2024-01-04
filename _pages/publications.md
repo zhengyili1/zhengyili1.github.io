@@ -23,7 +23,7 @@ author_profile: true
 **[Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels at Scale](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/lalaine_sec23.pdf)**
 <br>Yue Xiao, **Zhengyi Li**, Yue Qin, Xiaolong Bai, Jiale Guan, Xiaojing Liao, Luyi Xing
 <br>USENIX Security Symposium (Security), 2023.
-
+<span style="color:blue">Showcase in the 2023 NSA CAE-R Research Symposium</span>
 
 2022
 ======
