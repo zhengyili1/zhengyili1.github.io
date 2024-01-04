@@ -23,7 +23,7 @@ author_profile: true
 **[Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels at Scale](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/lalaine_sec23.pdf)**
 <br>Yue Xiao, **Zhengyi Li**, Yue Qin, Xiaolong Bai, Jiale Guan, Xiaojing Liao, Luyi Xing
 <br>USENIX Security Symposium (Security), 2023.
-<span style="color:blue">Showcase in the 2023 NSA CAE-R Research Symposium</span>
+<br><span style="color:red">Showcase in the 2023 NSA CAE-R Research Symposium</span>
 
 2022
 ======
@@ -45,3 +45,4 @@ author_profile: true
 ​**[Demystifying the Dark Web Opioid Trade: Content Analysis on Anonymous Market Listings and Forum Posts](https://www.jmir.org/2021/2/e24486/)**
 <br>**Zhengyi Li**, Xiangyu Du, Xiaojing Liao, Xiaoqian Jiang, Tiffany Champagne-Langabeer
 <br>Journal of Medical Internet Research (JMIR). (Impact Factor: 5.03)
+<br><span style="color:red">Media coverage: [U.S.News](https://www.usnews.com/news/health-news/articles/2021-04-02/people-are-buying-illegal-opioids-on-the-dark-web), [HealthDay](https://consumer.healthday.com/b-4-2-people-are-buying-illegal-opioids-on-the-dark-web-2651293494.html)</span>
