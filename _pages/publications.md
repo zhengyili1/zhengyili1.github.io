@@ -9,7 +9,7 @@ author_profile: true
 
 2024
 ======
-**Understanding and Analyzing Appraisal Systems in the Underground Marketplaces**
+**[Understanding and Analyzing Appraisal Systems in the Underground Marketplaces](https://www.ndss-symposium.org/wp-content/uploads/2024-187-paper.pdf)**
 <br>**Zhengyi Li**, Xiaojing Liao
 <br>Network and Distributed System Security (NDSS) Symposium 2024.
 
