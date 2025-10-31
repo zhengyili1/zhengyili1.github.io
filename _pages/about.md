@@ -10,6 +10,6 @@ redirect_from:
 
 # Zhengyi Li
 
-Hi, I am a 5th-year Ph.D. candidate in Computer Engineering from [Indiana University Bloomington](https://luddy.indiana.edu/index.html), advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com). 
+Hi, I am a tenure-track Assistant Professor of [Computer Science](https://www.augustana.edu/academics/areas-of-study/computer-science) at [Augustana College](https://www.augustana.edu). I received my Ph.D. in Computer Engineering from [Indiana University Bloomington](https://luddy.indiana.edu/index.html), advised by [Prof. Xiaojing Liao](https://www.xiaojingliao.com). 
 
-My research focuses on critical cybersecurity issues. In general, I am dedicated to gathering Cyber Threat Intelligence, investigating the dynamics of underground marketplaces and their impact on public health. I also work on privacy compliance and enforcement, blockchain security, and the security of machine learning systems.
+My research focuses on data-driven security, specifically the cyber threat intelligence, cybercrime, and privacy enforcement. Recently, I have extended my work to emerging areas such as blockchain security and the security of Large Language Models.

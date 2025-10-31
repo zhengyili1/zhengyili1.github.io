@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+2025
+======
+**An Exploration of Fertility and Reproductive Medications on the Dark Web**(Preprint)
+<br>**Zhengyi Li**, Kyle Le, Xiaojing Liao, Brent Monseur
+
 2024
 ======
 **[Understanding and Analyzing Appraisal Systems in the Underground Marketplaces](https://www.ndss-symposium.org/wp-content/uploads/2024-187-paper.pdf)**
