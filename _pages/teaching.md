@@ -30,7 +30,7 @@ Instructor
     CSC-336 Internet and Cybersecurity<br>
     CSC-335 Networking Fundamentals
 </span>
-(before I join Augustana College)
+(before I join Augustana College)<br>
 **Spring 2024**: CSCI-B547 Systems & Protocol Security and Information Assurance
 <br>**Fall 2023**: CSCI-B365 Data Analysis and Mining
 <br>**Fall 2018**: ENGR-E221 Intelligent Systems I (lab session)
