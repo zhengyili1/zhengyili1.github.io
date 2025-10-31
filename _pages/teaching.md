@@ -11,7 +11,7 @@ Instructor
 ======
 <br>**Spring 2026**:
 <div style="margin-left: 20px; display: inline-block;">
-    Principles of Artificial Intelligence (CSC-320)<br>
+    xxPrinciples of Artificial Intelligence (CSC-320)<br>
     Data Science Senior Inquiry (DATA-492)
 </div>
 <br>**Fall 2025**: Introduction to Computer Science (CSC-201)
