@@ -16,7 +16,7 @@ Instructor
 </span>
 **Fall 2025**:
 <span style="display:block; margin-left: 30px;">
-    CSC-332 Operating System
+    CSC-332 Operating System<br>
     CSC-201 Introduction to Computer Science
 </span>
 **Spring 2025**:
