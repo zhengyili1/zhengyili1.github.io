@@ -10,19 +10,19 @@ author_profile: true
 Instructor
 ======
 <br>**Spring 2026**:
-<div style="margin-left: 20px;">
+<div style="margin-left: 20px; display: inline-block;">
     Principles of Artificial Intelligence (CSC-320)<br>
     Data Science Senior Inquiry (DATA-492)
 </div>
 <br>**Fall 2025**: Introduction to Computer Science (CSC-201)
 <br>**Spring 2025**:
-<div style="margin-left: 20px;">
+<div style="margin-left: 20px; display: inline-block;">
     Machine Learning (CSC-325)<br>
     Web Programming (CSC-215)<br>
     Introduction to Computer Science (CSC-201)
 </div>
 <br>**Fall 2024**:
-<div style="margin-left: 20px;">
+<div style="margin-left: 20px; display: inline-block;">
     Internet and Cybersecurity (CSC-336)<br>
     Networking Fundamentals (CSC-335)
 </div>
