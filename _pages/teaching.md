@@ -22,10 +22,10 @@ Instructor
     Introduction to Computer Science (CSC-201)
 </div>
 <br>**Fall 2024**:
-<div style="margin-left: 20px; display: inline-block;">
-    Internet and Cybersecurity (CSC-336)<br>
+<span style="display:block; margin-left: 20px;">
+    xxInternet and Cybersecurity (CSC-336)<br>
     Networking Fundamentals (CSC-335)
-</div>
+</span>
 <br>**Spring 2024**: Systems & Protocol Security and Information Assurance (CSCI-B547)
 <br>**Fall 2023**: Data Analysis and Mining (CSCI-B365)
 <br>**Fall 2018**: Intelligent Systems I (ENGR-E221, lab session)
