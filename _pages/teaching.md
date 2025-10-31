@@ -31,7 +31,7 @@ Instructor
     CSC-335 Networking Fundamentals
 </span>
 <span style="font-style: italic; font-size: 14px;">
-(before I join Augustana College)
+(before I join Augustana College)<br>
 </span>
 **Spring 2024**: CSCI-B547 Systems & Protocol Security and Information Assurance
 <br>**Fall 2023**: CSCI-B365 Data Analysis and Mining
