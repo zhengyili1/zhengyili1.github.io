@@ -11,28 +11,28 @@ Instructor
 ======
 **Spring 2026**:
 <span style="display:block; margin-left: 20px;">
-    Principles of Artificial Intelligence (CSC-320)<br>
-    Data Science Senior Inquiry (DATA-492)
+    CSC-320 Principles of Artificial Intelligence<br>
+    DATA-492 Data Science Senior Inquiry
 </span>
 **Fall 2025**:
 <span style="display:block; margin-left: 20px;">
-    Introduction to Computer Science (CSC-201)
-    Operating System (CSC-332)
+    CSC-332 Operating System
+    CSC-201 Introduction to Computer Science
 </span>
 **Spring 2025**:
 <span style="display:block; margin-left: 20px;">
-    Machine Learning (CSC-325)<br>
-    Web Programming (CSC-215)<br>
-    Introduction to Computer Science (CSC-201)
+    CSC-325 Machine Learning<br>
+    CSC-215 Web Programming<br>
+    CSC-201 Introduction to Computer Science
 </span>
 **Fall 2024**:
 <span style="display:block; margin-left: 20px;">
-    Internet and Cybersecurity (CSC-336)<br>
-    Networking Fundamentals (CSC-335)
+    CSC-336 Internet and Cybersecurity<br>
+    CSC-335 Networking Fundamentals
 </span>
-**Spring 2024**: Systems & Protocol Security and Information Assurance (CSCI-B547)
-<br>**Fall 2023**: Data Analysis and Mining (CSCI-B365)
-<br>**Fall 2018**: Intelligent Systems I (ENGR-E221, lab session)
+**Spring 2024**: CSCI-B547 Systems & Protocol Security and Information Assurance
+<br>**Fall 2023**: CSCI-B365 Data Analysis and Mining
+<br>**Fall 2018**: ENGR-E221 Intelligent Systems I (lab session)
 
 Teaching Assistant
 ======
